@@ -1,0 +1,3 @@
+[submodule "Hex-maze"]
+	path = Hex-maze
+	url = git@github.com:calderast/Hex-maze.git
